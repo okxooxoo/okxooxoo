@@ -4,9 +4,8 @@
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/react native-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 
-![Okxooxoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=okxooxoo&show_icons=true&theme=transparent)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vholls2)](https://solved.ac/vholls2/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okxooxoo&layout=compact)
+
 <!--
 **okxooxoo/okxooxoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
