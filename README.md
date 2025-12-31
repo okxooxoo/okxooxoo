@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vholls2)](https://solved.ac/vholls2/)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=okxooxoo)](https://github.com/eungyeole/velog-readme-stats)
 
 <!--
 **okxooxoo/okxooxoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
